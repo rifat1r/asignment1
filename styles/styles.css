@@ -58,15 +58,15 @@
   margin-top: 0;
 }
 .banner-welcome {
-  background-image: url("../resources/Vectorrr.png"),
-    url("../resources/Group\ 70.png");
+  background-image: url("../resources/Group\ 70.png"),
+    url("../resources/Vectorrr.png");
+
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: middle center, center;
   width: 1320px;
   height: 600px;
   text-align: center;
   color: white;
-
   width: 80%;
   margin: 0 auto;
 }
