@@ -111,6 +111,22 @@
   padding: 20px;
   width: 370px;
 }
+.coming-image {
+  border: 2px solid #ccc;
+  border-radius: 50%;
+}
+.coming-bo {
+  padding: 10px;
+  border: 10px solid#F00;
+  border-radius: 50%;
+}
+.coming-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
 .background-images {
   background-image: url("../resources/Rectangle\ 2.png"),
     url("../resources/Group\ 75.png"), url("../resources/Rectangle\ 1.png"),
