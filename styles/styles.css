@@ -105,7 +105,38 @@
 }
 .coming-box {
   text-align: left;
-  margin: 0 10px;
+  margin: 0 5px;
   padding: 20px;
   width: 370px;
+}
+.background-images {
+  background-image: url("../resources/Rectangle\ 2.png"),
+    url("../resources/Group\ 75.png"), url("../resources/Rectangle\ 1.png"),
+    url("../resources/Group\ 44.png");
+  background-position: bottom center, left center, right center, top center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+  background-size: 29%, 20%, 30%, 50%;
+}
+.gifts {
+  width: 80%;
+  margin: 0 auto;
+  align-items: center;
+}
+.products {
+  display: flex;
+}
+.products-column {
+  margin: 10px 0;
+}
+.products img {
+  margin: 10px 0;
+}
+.newsletter {
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.05);
+  width: 80%;
+  margin: 0 auto;
+  align-items: center;
 }
