@@ -1,0 +1,72 @@
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.banner-content {
+  background-image: url("../resources/Banner\ Image.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1320px;
+  height: 600px;
+  padding: 230px 340px 170px 340px;
+  color: white;
+  text-align: center;
+
+  width: 80%;
+  margin: 0 auto;
+}
+.banner-content > h3 {
+  text-align: center;
+
+  font-size: 32px;
+
+  font-weight: 400;
+}
+.banner-content > h1 {
+  text-align: center;
+
+  font-size: 72px;
+
+  font-weight: 900;
+  line-height: 95px;
+}
+.banner-discount {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.banner-discount > h1 {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+}
+.banner-discount > h4 {
+  color: #f00;
+
+  font-size: 24px;
+
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.banner-discount > h2 {
+  color: #070211;
+
+  font-size: 48px;
+
+  font-weight: 700;
+  margin-top: 0;
+}
+.banner-welcome {
+  background-image: url("../resources/Vectorrr.png"),
+    url("../resources/Group\ 70.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1320px;
+  height: 600px;
+  text-align: center;
+  color: white;
+
+  width: 80%;
+  margin: 0 auto;
+}
